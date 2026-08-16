@@ -1,4 +1,3 @@
-````markdown
 # WooCommerce ↔ Google Sheets Sync with n8n
 
 A practical n8n workflow for syncing WooCommerce products with Google Sheets and safely applying price and stock updates.
@@ -189,5 +188,4 @@ The current version focuses on keeping the system simple, practical, and easy to
 * Google Sheets
 * WooCommerce REST API
 
----
 
